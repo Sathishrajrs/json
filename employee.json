@@ -1,0 +1,41 @@
+{
+    "Employee":[
+   {
+    "name":"Rohit",
+    "dob":"12-03-1985",
+    "height":170,
+    "city":"mumbai",
+    "state":"maharashtra"
+    },
+    {
+
+     "name": "Jane Doe",
+     "dob": "1995-02-02",
+     "height": "165cm",
+     "city": "New York",
+     "state": "NY"
+    },
+    {
+     "name": "Peter Parker",
+     "dob": "1998-03-03",
+     "height": 175,
+     "city": "London",
+     "state": "UK"
+    },
+    {
+     "name": "Mary Jane Watson",
+     "dob": "2000-04-04",
+     "height": 160,
+     "city": "Tokyo",
+     "state": "JP"
+    },
+    {
+     "name": "Bruce Wayne",
+     "dob": "1985-05-05",
+     "height": 180,
+     "city": "Gotham City",
+     "state": "US"
+    }
+  ]
+}
+
